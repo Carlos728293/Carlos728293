@@ -27,8 +27,8 @@ Sou apaixonado por programar e criar sites modernos com um toque minimalista. Go
 ## 📊 Estatísticas
 <div align="center">
 
-<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Carlos728293&show_icons=true&theme=default" />
-<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos728293&layout=compact&theme=default" />
+<img height="180em" width="340px" src="https://github-readme-stats.vercel.app/api?username=Carlos728293&show_icons=true&theme=default" />
+<img height="180em" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos728293&layout=compact&theme=default" />
 
 </div>
 
